@@ -1,13 +1,15 @@
 # Profile information
-name: Fresh
-title: Fresh - Free Jekyll Theme
+name: Shevon
+title: Shevon's blog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
-url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
+
+github: 56bb28997d9cbddffe1cc4752ceee8f42a866f41
 
 # Social
 facebook: #Add your Facebook
@@ -16,18 +18,19 @@ google-plus: #Add your Google+
 github: #Add your Github
 
 # Contact form
-email: #your-email@domain.com
+email: 15021393449@163.com #your-email@domain.com
+zcool: 14327314 #zcool_id
 
 # Comments
 discus-identifier: # Add your Disqus identifier
 
 # Paginate
-paginate: 5
+paginate: 6
 paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
 exclude:
