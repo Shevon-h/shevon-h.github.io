@@ -7,4 +7,4 @@ description: 玩家网站
 categories: projects
 ---
 
-![](../img/wanjiaweb@2x.png)
+![](../img/wanjiaweb@2x.jpg)

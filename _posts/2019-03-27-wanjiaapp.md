@@ -7,4 +7,4 @@ description: 玩家app
 categories: projects
 ---
 
-![](../img/wanjiaapp@2x.png)
+![](../img/wanjiaapp@2x.jpg)

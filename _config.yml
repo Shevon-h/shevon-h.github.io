@@ -28,6 +28,14 @@ discus-identifier: # Add your Disqus identifier
 paginate: 6
 paginate_path: /page:num/
 
+# Footer `powered-by` and `theme-info` copyright
+copyright: true
+
+#author
+author: Rickylss
+
+since: 2020
+
 # Build settings
 markdown: kramdown
 plugins:
